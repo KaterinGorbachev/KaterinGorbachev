@@ -1,16 +1,35 @@
 ## Hi there 👋
 
 <!--
-**KaterinGorbachev/KaterinGorbachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I'm Katerina Gorbacheva.
+👀 My interests span across website design, data science, software testing, legislation around the Internet, and the history of art.
+🌱 Currently, I'm delving deep into web accessibility and better user experience.
+📫 You can reach out to me here.
+⚡ Fun fact: I’d rather spend my free evening at a hackathon or IT meetup than hanging out.
 -->
+
+
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js 3](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+| Art color picker | Animales Inanimados | 
+|------------|------------|
+|------------|------------|
+|**Art color picker**|------------|
+|Art Color Picker is an application inspired by Japanese art that helps you create color combinations. The website design refers to the Bauhaus school’s ideas about object positioning and the use of space. It is built with Flask, JavaScript, HTML5, and CSS. Language: English. |------------|
+
+
+
+
+
