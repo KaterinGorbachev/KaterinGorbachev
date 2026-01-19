@@ -24,6 +24,7 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-F7E017?style=for-the-badge&logo=leaflet&logoColor=black)
 
 
 | **Art color picker** | **Animales Inanimados** | 
