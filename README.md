@@ -29,7 +29,7 @@
 | **Art color picker** | **Animales Inanimados** | 
 |------------|------------|
 |![Art color picker view](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/artcolorpicker.png)|![Animales Inanimados view](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/animalesinanimados.png)|
-|!Web site: [Art color picker](https://art-color.onrender.com/)|!Web site: [Animales Inanimados](https://animales-inanimados.onrender.com/)|
+|Web site: [Art color picker](https://art-color.onrender.com/)|Web site: [Animales Inanimados](https://animales-inanimados.onrender.com/)|
 |Art Color Picker is an application inspired by Japanese art that helps you create color combinations. The website design refers to the Bauhaus school’s ideas about object positioning and the use of space. It is built with Flask, JavaScript, HTML5, and CSS mobile first. Language: English. |Animales Inanimados is an web site with tourist routes around Valencia and a quiz for children at the end of each route. The idea is to answer the question correctly to unlock the next route.  It is built with Vue3, JavaScript, HTML5, SASS and Tailwind mobile first. Language: Spanish. |
 
 
