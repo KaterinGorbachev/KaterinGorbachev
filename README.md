@@ -28,9 +28,9 @@
 
 | Art color picker | Animales Inanimados | 
 |------------|------------|
-|------------|------------|
+|![Art color picker view](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/artcolorpicker.png)|![Animales Inanimados view]([https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/artcolorpicker.png](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/animalesinanimados.png))|
 |**Art color picker**|------------|
-|Art Color Picker is an application inspired by Japanese art that helps you create color combinations. The website design refers to the Bauhaus school’s ideas about object positioning and the use of space. It is built with Flask, JavaScript, HTML5, and CSS. Language: English. |------------|
+|Art Color Picker is an application inspired by Japanese art that helps you create color combinations. The website design refers to the Bauhaus school’s ideas about object positioning and the use of space. It is built with Flask, JavaScript, HTML5, and CSS mobile first. Language: English. |------------|
 
 
 
