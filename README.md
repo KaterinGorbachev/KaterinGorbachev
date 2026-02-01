@@ -32,7 +32,13 @@
 |![Art color picker view](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/artcolorpicker.png)|![Animales Inanimados view](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/animalesinanimados.png)|![mrnbsv Portfolio](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/mrnbsvWebPortfolio2.0.png)|
 |Web site: [Art color picker](https://art-color.onrender.com/)|Web site: [Animales Inanimados](https://animales-inanimados.onrender.com/)|Web site: [Marina Borisova Portfolio](https://mrnbrsv-portfolio.vercel.app/)|
 |Art Color Picker is an application inspired by Japanese art that helps you create color combinations. The website design refers to the Bauhaus school’s ideas about object positioning and the use of space. It is built with Flask, Python, JavaScript, HTML5, and CSS mobile first. Language: English. |Animales Inanimados is an web site with tourist routes around Valencia and a quiz for children at the end of each route. The idea is to answer the question correctly to unlock the next route.  It is built with Vue3, JavaScript, HTML5, SASS and Tailwind mobile first. Language: Spanish. | Web-Portfolio2.0 is a modern, responsive portfolio website designed to showcase your projects, skills, experience, and professional information in a clean and dynamic format. This version (2.0) builds upon the essentials of a personal portfolio with updated tooling and a data-driven structure to make content easier to manage and scale.  It is built with Vue3, JavaScript, HTML5, Tailwind mobile first, Firebase. Language: English. |
-|[Git Repo](https://github.com/KaterinGorbachev/Art_color_picker)|[Git Repo](https://github.com/KaterinGorbachev/Animales-Inanimados)|[Git Repo](https://github.com/KaterinGorbachev/Web-Portfolio2.0)
+|[Git Repo](https://github.com/KaterinGorbachev/Art_color_picker)|[Git Repo](https://github.com/KaterinGorbachev/Animales-Inanimados)|[Git Repo](https://github.com/KaterinGorbachev/Web-Portfolio2.0) |
+| **Kanban Wabi Sabi** |
+|![Kanban Wabi Sabi](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/KanbanWabiSabi.png)|
+|Web site: [Kanban Wabi Sabi](https://kanbanwabisabi.vercel.app)|
+|Kanban Wabi Sabi is a modern, minimalist Digital Workspace application for managing tasks with Kanban boards. It is built with Vue3, JavaScript, HTML5, Tailwind mobile first, Firebase. Language: Spanish.|
+|[Git Repo](https://github.com/KaterinGorbachev/KanbanWabiSabi)|
+
 
 
 
