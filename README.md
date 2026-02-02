@@ -36,7 +36,7 @@
 | **Kanban Wabi Sabi** | **Dragon Ball TicTacToe** |
 |![Kanban Wabi Sabi](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/KanbanWabiSabi.png)|![TicTacToe Dragon Ball](https://github.com/KaterinGorbachev/KaterinGorbachev/blob/main/DragonBallTicTacToe.png)|
 |Web site: [Kanban Wabi Sabi](https://kanbanwabisabi.vercel.app)|----|
-|Kanban Wabi Sabi is a modern, minimalist Digital Workspace application for managing tasks with Kanban boards. It is built with Vue3, JavaScript, HTML5, Tailwind mobile first, Firebase. Language: Spanish.|A fun, themed Tic Tac Toe web application built using **Flask** and enriched with character data from the [Dragon Ball API](https://dragonball-api.com/). Players enjoy a familiar strategic game with **Dragon Ball** character visuals. Route protection with JWT, MySQL, Tailwind, HTML5, Java Script. Language: English. |
+|Kanban Wabi Sabi is a modern, minimalist Digital Workspace application for managing tasks with Kanban boards. It is built with Vue3, JavaScript, HTML5, Tailwind mobile first, Firebase. Language: Spanish.|A fun, themed Tic Tac Toe web application built using **Flask** and enriched with character data from the [Dragon Ball API](https://web.dragonball-api.com/). Players enjoy a familiar strategic game with **Dragon Ball** character visuals. Route protection with JWT, MySQL, Tailwind, HTML5, Java Script. Language: English. |
 |[Git Repo](https://github.com/KaterinGorbachev/KanbanWabiSabi)|[Git Repo](https://github.com/KaterinGorbachev/Dragon-Ball-Tic-Tac-Toe)|
 
 
